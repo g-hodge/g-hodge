@@ -3,9 +3,11 @@ My name's Gavin Hodge and I'm an undergraduate student at the University of Notr
 
 While I am a Global Affairs major, I have been picking up coursework in Accountancy and Data Science 📚
 
+I'm also a Research Assistant at the Kellogg Institute for Int'l Studies 🌎
+
 When I'm not working, I enjoy playing *The New York Times* minigames 🧩
 
-## What am I up to?
+## What data science projects am I working on?
 
 I'll get some stuff in here soon! Please stay tuned
 
@@ -15,6 +17,10 @@ I'll get some stuff in here soon! Please stay tuned
 - Python
 - RStudio
 - Microsoft Office
+
+## What work experience do I have?
+- Strategy at IGS Energy ⚡️
+- Community Research at The Columbus Foundation 📝
 
 ## Want to connect?
 
