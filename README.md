@@ -13,7 +13,7 @@ When I'm not working, I enjoy playing *The New York Times* minigames 🧩
 
 ## What tools and languages do I know?
 
-- Tableau
+- <img width="266" alt="Image" src="https://github.com/user-attachments/assets/156058c4-2fc1-420b-893a-6245444e76be" />
 - Python
 - RStudio
 - Microsoft Office
