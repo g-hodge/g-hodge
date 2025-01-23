@@ -18,8 +18,8 @@ When I'm not working, I enjoy playing *The New York Times* minigames 🧩
 
 
 ## What work experience do I have?
-- Strategy at IGS Energy ⚡️
-- Community Research at The Columbus Foundation 📝
+- Strategy Intern at IGS Energy ⚡️
+- Research Fellow at The Columbus Foundation 📝
 
 ## Want to connect?
 [<img src="https://github.com/user-attachments/assets/b67dd04f-b742-40b9-9bf2-a25536133991" alt="LinkedIn" width="85">](https://www.linkedin.com/in/gavin-hodge/)
