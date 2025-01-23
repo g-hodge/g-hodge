@@ -5,8 +5,6 @@ While I am a Global Affairs major, I have been picking up coursework in Accounta
 
 I'm also a Research Assistant at the Kellogg Institute for Int'l Studies 🌎
 
-I have previous internship experience in the social and private sectors in the American Midwest 🗓️
-
 When I'm not working, I enjoy playing *The New York Times* minigames 🧩
 
 ## What data science projects am I working on?
