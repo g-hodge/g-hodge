@@ -1,5 +1,5 @@
 # Hi there - welcome to my profile! 👋😁
-My name's **Gavin Hodge** and I'm an undergraduate student at the University of Notre Dame ☘️ 
+My name's **Gavin Hodge** and I'm an **undergraduate student at the University of Notre Dame** ☘️ 
 
 While I am a **Global Affairs major**, I have been picking up coursework in Accountancy and Data Science 📚
 
