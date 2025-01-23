@@ -12,11 +12,10 @@ When I'm not working, I enjoy playing *The New York Times* minigames 🧩
 - [Data Science Portfolio](https://github.com/g-hodge/HODGE-Data-Science-Portfolio)
 
 ## What tools and languages do I know?
+![Python](https://github.com/user-attachments/assets/18df55d1-94d0-49ce-b130-fe39fdf86c2b)
+![RStudio](https://github.com/user-attachments/assets/f931bfa1-3ea1-4a31-8650-6e4e97e99cad)
+![Tableau](https://github.com/user-attachments/assets/fafd0abe-90d1-4ceb-81c6-b344c0d20b78)
 
-- <img width="266" alt="Image" src="https://github.com/user-attachments/assets/156058c4-2fc1-420b-893a-6245444e76be" />
-- Python
-- RStudio
-- Microsoft Office
 
 ## What work experience do I have?
 - Strategy at IGS Energy ⚡️
