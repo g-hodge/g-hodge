@@ -22,6 +22,5 @@ When I'm not working, I enjoy playing *The New York Times* minigames 🧩
 - Community Research at The Columbus Foundation 📝
 
 ## Want to connect?
-
-- [LinkedIn](https://www.linkedin.com/in/gavin-hodge/)
+[<img src="https://github.com/user-attachments/assets/b67dd04f-b742-40b9-9bf2-a25536133991" alt="LinkedIn" width="85">](https://www.linkedin.com/in/gavin-hodge/)
   
