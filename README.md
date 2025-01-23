@@ -9,7 +9,7 @@ When I'm not working, I enjoy playing *The New York Times* minigames 🧩
 
 ## What data science projects am I working on?
 
-I'll get some stuff in here soon! Please stay tuned
+- [Data Science Portfolio](https://github.com/g-hodge/HODGE-Data-Science-Portfolio)
 
 ## What tools and languages do I know?
 
