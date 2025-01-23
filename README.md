@@ -1,5 +1,5 @@
 # Hi there - welcome to my profile 👋
-# Who am I?
+## Who am I?
 I am a student at the University of Notre Dame!
 
 
