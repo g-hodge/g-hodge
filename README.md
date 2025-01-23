@@ -1,12 +1,9 @@
 # Hi there - welcome to my profile! 👋
 
-My name's Gavin Hodge and I'm a student at the University of Notre Dame ☘️ 
+My name's Gavin Hodge and I'm an undergraduate student at the University of Notre Dame ☘️ 
 
-## Who am I?
-
-- I'm an undergraduate student at the University of Notre Dame where I study Global Affairs
-- I'm currently learning about 
-- I'm a big fan of *The New York Times* minigames (but LinkedIn games are getting pretty good!)
+While I am a Global Affairs major, I have been picking up coursework in Accountancy and Data Science 📚
+When I'm not working, I enjoy playing *The New York Times* minigames 🧩
 
 ## What am I up to?
 
