@@ -14,6 +14,7 @@ I'll get some stuff in here soon! Please stay tuned
 - Tableau
 - Python
 - RStudio
+- Microsoft Office
 
 ## Want to connect?
 
