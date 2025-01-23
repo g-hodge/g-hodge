@@ -12,7 +12,7 @@ When I'm not working, I enjoy playing *The New York Times* minigames 🧩
 - [Data Science Portfolio](https://github.com/g-hodge/HODGE-Data-Science-Portfolio)
 
 ## What tools and languages do I know?
-<img src="https://github.com/user-attachments/assets/18df55d1-94d0-49ce-b130-fe39fdf86c2b" alt="Python" width="40">
+<img src="https://github.com/user-attachments/assets/18df55d1-94d0-49ce-b130-fe39fdf86c2b" alt="Python" width="60">
 <img src="https://github.com/user-attachments/assets/f931bfa1-3ea1-4a31-8650-6e4e97e99cad" alt="RStudio" width="100">
 <img src="https://github.com/user-attachments/assets/fafd0abe-90d1-4ceb-81c6-b344c0d20b78" alt="Tableau" width="60">
 
