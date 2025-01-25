@@ -7,7 +7,7 @@ I'm also a **Research Assistant** at the Kellogg Institute for Int'l Studies �
 
 When I'm not working, I enjoy playing *The New York Times* minigames 🧩
 
-## What data science projects am I working on?
+## What projects am I working on?
 
 - [Data Science Portfolio](https://github.com/g-hodge/HODGE-Data-Science-Portfolio)
 
@@ -22,5 +22,5 @@ When I'm not working, I enjoy playing *The New York Times* minigames 🧩
 - Research Fellow at The Columbus Foundation 📝
 
 ## Want to connect?
-[<img src="https://github.com/user-attachments/assets/b67dd04f-b742-40b9-9bf2-a25536133991" alt="LinkedIn" width="85">](https://www.linkedin.com/in/gavin-hodge/)
+[<img src="https://github.com/user-attachments/assets/b67dd04f-b742-40b9-9bf2-a25536133991" alt="LinkedIn" width="60">](https://www.linkedin.com/in/gavin-hodge/)
   
