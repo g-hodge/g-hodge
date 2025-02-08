@@ -1,7 +1,7 @@
-# Hi there - welcome to my profile! 👋😁
+# Hi there - I'm Gavin! 👋😁
 My name's **Gavin Hodge** and I'm an undergraduate student at the **University of Notre Dame** ☘️ 
 
-While I am a **Global Affairs major**, I have been picking up coursework in Accountancy and Data Science 📚
+While I am studying **Global Affairs**, I have been picking up coursework in Accountancy and Data Science 📚
 
 I'm also a **Research Assistant** at the Kellogg Institute for Int'l Studies 🌎
 
