@@ -17,19 +17,25 @@ When I'm not working, I enjoy playing *The New York Times* minigames 🧩
 <br>
 <hr>
 
-<img align="left" width="150" height="100" src="https://github.com/user-attachments/assets/a9078113-52dc-4701-970e-44ac1699fb48"> ***Reparations Analysis:*** Outside of GitHub, I have been working on a data transformation and analysis project at the Kellogg Institute for Int'l Studies. The focus of the project is understanding how the specificity in reparations issued by the Inter-American Court of Human Rights influences time-to-compliance.
+<img align="left" width="150" height="100" src="https://github.com/user-attachments/assets/a9078113-52dc-4701-970e-44ac1699fb48"> ***Reparations Analysis:*** Outside of GitHub, I have been working on a data transformation and analysis project at the Kellogg Institute for Int'l Studies. The focus of the project is understanding how the specificity of reparations issued by the Inter-American Court of Human Rights influences time-to-compliance.
 <br>
 <br>
 <hr>
 
 
 ## What do I have in my toolbox?
-<img src="https://github.com/user-attachments/assets/2460cf09-c659-44e1-a4dc-b9e6b8500992" alt="RStudio" width="80"> <br>
-<img src="https://github.com/user-attachments/assets/6874a38a-b4ec-418e-923a-37b786fc4b55" alt="Tableau" width="90"> <br>
-<img src="https://github.com/user-attachments/assets/9c705119-bb9a-4d84-8993-a1ac70fef621" alt="Python" width="85"> <br>
-<img src="https://github.com/user-attachments/assets/a8f21ef3-aa79-4d3f-8697-315de34db99c" alt="Streamlit" width="90"> <br>
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/2460cf09-c659-44e1-a4dc-b9e6b8500992" width="80">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/a8f21ef3-aa79-4d3f-8697-315de34db99c" width="80"><br><br>
+  <img src="https://github.com/user-attachments/assets/9c705119-bb9a-4d84-8993-a1ac70fef621" width="80">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/6874a38a-b4ec-418e-923a-37b786fc4b55c" width="80">
+</p>
 
 
+*In the future, I'm hoping to learn how to use SQL and ArcGIS.*
 
 ## What work experience do I have?
 - Strategy Intern at IGS Energy ⚡️
