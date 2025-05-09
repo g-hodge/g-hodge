@@ -17,7 +17,7 @@ When I'm not working, I enjoy playing *The New York Times* minigames 🧩
 <br>
 <hr>
 
-<img align="left" width="150" height="100" src="https://github.com/user-attachments/assets/a9078113-52dc-4701-970e-44ac1699fb48"> ***Reparations Analysis:*** Outside of GitHub, I have been working on a data transformation and analysis project at the Kellogg Institute for Int'l Studies. The focus of the project is understanding how the specificity in reparations issued by the Inter-American Court of Human Rights influences time-to-compliance."
+<img align="left" width="150" height="100" src="https://github.com/user-attachments/assets/a9078113-52dc-4701-970e-44ac1699fb48"> ***Reparations Analysis:*** Outside of GitHub, I have been working on a data transformation and analysis project at the Kellogg Institute for Int'l Studies. The focus of the project is understanding how the specificity in reparations issued by the Inter-American Court of Human Rights influences time-to-compliance.
 <br>
 <br>
 <hr>
