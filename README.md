@@ -9,7 +9,20 @@ When I'm not working, I enjoy playing *The New York Times* minigames 🧩
 
 ## What projects am I working on?
 
-- [Data Science Portfolio](https://github.com/g-hodge/HODGE-Data-Science-Portfolio)
+
+
+
+<img align="left" width="150" height="100" src="https://github.com/user-attachments/assets/8eb76a8e-2b42-4739-a6a6-f46c2e5ca5ff
+"> **[*Data Science Portfolio*](https://github.com/g-hodge/Hodge-Data-Science-Portfolio/):** In this portfolio, you can access a series of projects I completed for a class at the University of Notre Dame. Projects included in the portfolio are
+<br>
+<br>
+<hr>
+
+<img align="left" width="150" height="100" src="https://github.com/user-attachments/assets/a9078113-52dc-4701-970e-44ac1699fb48
+"> **[*MLStreamlitApp*](https://github.com/g-hodge/Hodge-Data-Science-Portfolio/tree/main/MLStreamlitApp):** I developed an app that helps users understand machine learning on their own terms. Through this app, users can upload their own datasets. After uploading, users can pick between leveraging a Linear Regression or K-Nearest neighbor model. Users will also have the option to fine tune and evaluate their model across several fronts. This project contributes to my portfolio as it demonstrates the wide ranging applicability of machine learning to any dataset.
+<br>
+<hr>
+
 
 ## What do I have in my toolbox?
 <img src="https://github.com/user-attachments/assets/2460cf09-c659-44e1-a4dc-b9e6b8500992" alt="RStudio" width="80"> <br>
