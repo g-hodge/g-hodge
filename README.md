@@ -12,14 +12,13 @@ When I'm not working, I enjoy playing *The New York Times* minigames 🧩
 
 
 
-<img align="left" width="150" height="100" src="https://github.com/user-attachments/assets/8eb76a8e-2b42-4739-a6a6-f46c2e5ca5ff
-"> **[*Data Science Portfolio*](https://github.com/g-hodge/Hodge-Data-Science-Portfolio/):** In this portfolio, you can access a series of projects I completed for a class at the University of Notre Dame. Projects included in the portfolio are
+<img align="left" width="150" height="100" src="https://github.com/user-attachments/assets/8eb76a8e-2b42-4739-a6a6-f46c2e5ca5ff"> **[*Data Science Portfolio*](https://github.com/g-hodge/Hodge-Data-Science-Portfolio/):** In this portfolio, you can access a series of projects I completed for a class at the University of Notre Dame. The portfolio covers interactive app development, data cleaning and visualization, and machine learning.
 <br>
 <br>
 <hr>
 
-<img align="left" width="150" height="100" src="https://github.com/user-attachments/assets/a9078113-52dc-4701-970e-44ac1699fb48
-"> **[*MLStreamlitApp*](https://github.com/g-hodge/Hodge-Data-Science-Portfolio/tree/main/MLStreamlitApp):** I developed an app that helps users understand machine learning on their own terms. Through this app, users can upload their own datasets. After uploading, users can pick between leveraging a Linear Regression or K-Nearest neighbor model. Users will also have the option to fine tune and evaluate their model across several fronts. This project contributes to my portfolio as it demonstrates the wide ranging applicability of machine learning to any dataset.
+<img align="left" width="150" height="100" src="https://github.com/user-attachments/assets/a9078113-52dc-4701-970e-44ac1699fb48"> ***Reparations Analysis:*** Outside of GitHub, I have been working on a data transformation and analysis project at the Kellogg Institute for Int'l Studies. The focus of the project is understanding how the specificity in reparations issued by the Inter-American Court of Human Rights influences time-to-compliance."
+<br>
 <br>
 <hr>
 
