@@ -5,7 +5,7 @@ While I am studying **Global Affairs**, I have been picking up coursework in Acc
 
 I'm also a **Research Assistant** at the Kellogg Institute for Int'l Studies 🌎
 
-When I'm not working, I enjoy playing *The New York Times* minigames 🧩
+When I'm not working, I enjoy playing *The New York Times* minigames 🧩 and updating my foodie instagram page 📸
 
 ## What projects am I working on?
 
@@ -20,6 +20,7 @@ When I'm not working, I enjoy playing *The New York Times* minigames 🧩
 ## What work experience do I have?
 - Strategy Intern at IGS Energy ⚡️
 - Research Fellow at The Columbus Foundation 📝
+- Up next: Private Equity Intern in Hong Kong 🇭🇰 (Summer 2025) and Equity Research Summer Analyst 📈 (Summer 2026)
 
 ## Want to connect?
 [<img src="https://github.com/user-attachments/assets/2377dfd1-e31f-448c-add8-06924f99f382" alt="LinkedIn" width="60">](https://www.linkedin.com/in/gavin-hodge/)
