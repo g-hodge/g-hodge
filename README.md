@@ -12,7 +12,7 @@ When I'm not working, I enjoy playing *The New York Times* minigames 🧩
 
 
 
-<img align="left" width="150" height="100" src="https://github.com/user-attachments/assets/8eb76a8e-2b42-4739-a6a6-f46c2e5ca5ff"> **[*Data Science Portfolio*](https://github.com/g-hodge/Hodge-Data-Science-Portfolio/):** In this portfolio, you can access a series of projects I completed for a class at the University of Notre Dame. The portfolio covers interactive app development, data cleaning and visualization, and machine learning.
+<img align="left" width="150" height="100" src="https://github.com/user-attachments/assets/8eb76a8e-2b42-4739-a6a6-f46c2e5ca5ff"> **[*Intro to Data Science Portfolio*](https://github.com/g-hodge/Hodge-Data-Science-Portfolio/):** In this portfolio, you can access a series of projects I completed for a class at the University of Notre Dame. The portfolio covers interactive app development, data cleaning and visualization, and machine learning.
 <br>
 <br>
 <hr>
@@ -38,9 +38,8 @@ When I'm not working, I enjoy playing *The New York Times* minigames 🧩
 *In the future, I'm hoping to learn how to use SQL and ArcGIS.*
 
 ## What work experience do I have?
-- Strategy Intern at IGS Energy ⚡️
-- Research Fellow at The Columbus Foundation 📝
-- *What's up next?*: Private Equity Intern 📊 (Summer 2025) and Equity Research Summer Analyst 📈 (Summer 2026)
+- Strategy Intern at Nat'l Energy Retailer ⚡️
+- Private Equity Intern at Hong Kong-based Int'l Business Platform 📈
 
 ## Want to connect?
 [<img src="https://github.com/user-attachments/assets/2377dfd1-e31f-448c-add8-06924f99f382" alt="LinkedIn" width="60">](https://www.linkedin.com/in/gavin-hodge/)
