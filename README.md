@@ -5,7 +5,7 @@ While I am studying **Global Affairs**, I have been picking up coursework in Acc
 
 I'm also a **Research Assistant** at the Kellogg Institute for Int'l Studies 🌎
 
-When I'm not working, I enjoy playing *The New York Times* minigames 🧩
+When I'm not working, I enjoy playing *The New York Times* and *Bloomberg* games 🧩
 
 ## What projects am I working on?
 
